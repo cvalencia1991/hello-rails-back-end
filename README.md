@@ -116,9 +116,7 @@ Install this project with:
 
 ```sh
   cd my-project
-  gem install
   bundle install
-  npm install
   db:create
   db:migrate
   db:seed
